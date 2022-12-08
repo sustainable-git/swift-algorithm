@@ -24,6 +24,7 @@
   - [queue](./data_structure/queue/queue.swift)
   - [deque](./data_structure/queue/deque.swift)
   - [stack](./data_structure/queue/stack.swift)
+  - [Heap(Priority Queue)](./data_structure/queue/Heap(Priority%20Queue).swift)
 - Tree
   - [tree](./data_structure/tree/tree.swift)
   - [binarySearchTree](./data_structure/tree/binarySearchTree.swift)
